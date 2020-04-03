@@ -115,7 +115,7 @@ p {
     max-width: 150px;
 }
 
-.content div {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     background-color: #0072bb;
@@ -139,6 +139,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
